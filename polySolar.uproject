@@ -25,6 +25,13 @@
 		{
 			"Name": "TextureFormatOodle",
 			"Enabled": false
+		},
+		{
+			"Name": "FSR2MovieRenderPipeline",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
