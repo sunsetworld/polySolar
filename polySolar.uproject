@@ -13,7 +13,7 @@
 		},
 		{
 			"Name": "FSR2",
-			"Enabled": false,
+			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
